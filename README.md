@@ -1,4 +1,4 @@
-# Analysing-the-plausibility-of-iron-core-white-dwarfs
+# Analysing the Plausibility of Iron-Core White Dwarfs
 
 ## Requirements
 * Install dependencies:  
